@@ -9,7 +9,7 @@ I aspire to create a technology to improve the QOL in society.
 and related fields
 
 ## Language List:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiros3&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiros3&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visitor Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
