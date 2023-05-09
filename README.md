@@ -15,7 +15,7 @@ and related fields
 ### I can use (to a variety of extents):
 C++ / JavaScript / Scala / Haskell / Lean / Python / Ruby / Brainfuck (/ HTML / CSS / YAML)
 ### I want to learn:
-C / C# / Rust / Assembly / Go / Java / SQL / Perl / PHP / Swift / COBOL (/MATLAB / R) 
+C / C# / Rust / Assembly / TypeScript / Go / Java / SQL / Perl / PHP / Swift / COBOL (/MATLAB / R) 
 
 ## Visitor Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
