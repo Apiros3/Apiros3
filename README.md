@@ -1,6 +1,6 @@
 # Apiros3 GitHub Page
 
-**I aspire to create a technology to improve the QOL in society.** <br />
+**I aspire to create a technology to improve the QOL in society.** <br br/>
 Portfolio: https://apiros3.github.io/personal/info-jp.html <br />
 (Please do not share any personal info in the above page elsewhere)
 
