@@ -1,7 +1,8 @@
 # Apiros3 GitHub Page
 
 I aspire to create a technology to improve the QOL in society. <br />
-Portfolio: https://apiros3.github.io/personal/info-jp.html
+Portfolio: https://apiros3.github.io/personal/info-jp.html <br />
+(Please do not share any personal info in the above page elsewhere)
 
 ## Research Interests:
 * Interactive Theorem Proving
