@@ -8,7 +8,7 @@ I aspire to create a technology to improve the QOL in society.
 * Machine Learning <br />
 and related fields
 
-** Visitor Count: ** <br />
+## Visitor Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
 
 
