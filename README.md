@@ -5,10 +5,10 @@ I aspire to create a technology to improve the QOL in society.
 ## Research Interests:
 * Interactive Theorem Proving
 * Algorithms & Optimizaton
-* Machine Learning
+* Machine Learning <br />
 and related fields
 
-** Visitor Count: **
+** Visitor Count: ** <br />
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
 
 
