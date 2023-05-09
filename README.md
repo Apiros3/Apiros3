@@ -1,15 +1,15 @@
 # Apiros3 GitHub Page
 
-I aspire to create a technology to make life better for society.
+* I aspire to create a technology to improve the QOL in society.
 
 ## Research Interests:
-・Interactive Theorem Proving
-・Algorithms & Optimizaton
-・Machine Learning
-and related fields
+* ・Interactive Theorem Proving
+* ・Algorithms & Optimizaton
+* ・Machine Learning
+* and related fields
 
-Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
+** Visitor Count: **
+* ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
 
 
 <!---
