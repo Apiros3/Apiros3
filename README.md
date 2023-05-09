@@ -2,7 +2,7 @@
 
 ## Portfolio:
 https://apiros3.github.io/personal/info-jp.html <br />
-(Please do not share any personal info on the above page on public platforms (like Twitter))
+(Please do not share any personal info on the above page on public platforms without permission (like Twitter))
 
 ## Research Interests:
 * Interactive Theorem Proving
