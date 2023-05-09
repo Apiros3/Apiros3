@@ -1,11 +1,16 @@
+# Apiros3 GitHub Page
+
+I aspire to create a technology to make life better for society.
+
+## Research Interests:
+・Interactive Theorem Proving
+・Algorithms & Optimizaton
+・Machine Learning
+and related fields
+
+Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
 
-
-- 👋 Hi, I’m @Apiros3
-- 👀 I’m interested in ... wait I'll update this later 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Apiros3/Apiros3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
