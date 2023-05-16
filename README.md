@@ -1,5 +1,9 @@
 # Apiros3 GitHub Page
 
+## REPO CHECK:
+![TEST](https://github.com/Apiros3/stock_eval/actions/workflows/main.yaml/badge.svg)
+![AtCoder Discord WEBHOOK](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yaml/badge.svg)
+
 ## Portfolio:
 https://apiros3.github.io/personal/info-jp.html <br />
 (Please do not share any personal info on the above page on public platforms without permission (like Twitter))
