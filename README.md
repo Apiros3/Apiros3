@@ -1,8 +1,8 @@
 # Apiros3 GitHub Page
 
 ## REPO CHECK:
-![TEST](https://github.com/Apiros3/stock_eval/actions/workflows/main.yaml/badge.svg)
-![AtCoder Discord WEBHOOK](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yaml/badge.svg)
+![TEST](https://github.com/Apiros3/stock_eval/actions/workflows/main.yml/badge.svg)
+![AtCoder Discord WEBHOOK](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)
 
 ## Portfolio:
 https://apiros3.github.io/personal/info-jp.html <br />
