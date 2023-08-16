@@ -1,7 +1,7 @@
 # Apiros3 GitHub Page
 
 ## REPO CHECK:
-![AtCoder Discord WEBHOOK](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)
+[![AtCoder Daily Problemset](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml)
 [![Rating / Contest Update](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml/badge.svg)](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml)
 [![Contest List Webhook](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml)
 
