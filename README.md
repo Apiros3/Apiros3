@@ -3,6 +3,7 @@
 ## REPO CHECK:
 ![TEST](https://github.com/Apiros3/stock_eval/actions/workflows/main.yml/badge.svg)
 ![AtCoder Discord WEBHOOK](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)
+[![Rating / Contest Update](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml/badge.svg)](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml)
 
 ## Portfolio:
 https://apiros3.github.io/personal/info-jp.html <br />
