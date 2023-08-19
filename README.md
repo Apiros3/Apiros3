@@ -11,7 +11,7 @@ https://apiros3.github.io/personal/info-jp.html <br />
 (Please do not share any personal info on the above page on public platforms without permission (like Twitter))
 
 ## Blog:
-https://apiros3.github.io/blog/index.html
+https://apiros3.github.io/blog/index.html    
 It's essentially my second Twitter, just for fun
 
 ## Research Interests:
