@@ -10,8 +10,12 @@ https://apiros3.github.io/personal/info-jp.html <br />
 (Please do not share any personal info on the above page on public platforms without permission (like Twitter))
 
 ## Blog:
+### Generic Blog / Diary:    
 https://apiros3.github.io/blog/index.html    
 It's essentially my second Twitter, just for fun
+### CP Blog:    
+https://apiros3.github.io/cp-blog/index.html    
+For competitive programming specific use
 
 ## Research Interests:
 * Interactive Theorem Proving
