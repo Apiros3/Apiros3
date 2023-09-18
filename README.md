@@ -5,16 +5,16 @@
 [![Rating / Contest Update](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml/badge.svg)](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml)
 [![Contest List Webhook](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml)
 
-## Portfolio:
-https://apiros3.github.io/personal/info-jp.html <br />
+## [GitHub Pages](https://apiros3.github.io)
+List of links to my things
+
+## [Portfolio:](https://apiros3.github.io/personal/info-jp.html)
 (Please do not share any personal info on the above page on public platforms without permission (like Twitter))
 
 ## Blog:
-### Generic Blog / Diary:    
-https://apiros3.github.io/blog/index.html    
+### [Generic Blog / Diary:](https://apiros3.github.io/blog/index.html)    
 It's essentially my second Twitter, just for fun
-### CP Blog:    
-https://apiros3.github.io/cp-blog/index.html    
+### [CP Blog:](https://apiros3.github.io/cp-blog/index.html)    
 For competitive programming specific use
 
 ## Research Interests:
