@@ -1,9 +1,4 @@
-# Apiros3 GitHub Page
-
-## REPO CHECK:
-[![AtCoder Daily Problemset](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml)
-[![Rating / Contest Update](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml/badge.svg)](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml)
-[![Contest List Webhook](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml)
+# ✧Welcome✧
 
 ## [GitHub Pages](https://apiros3.github.io)
 List of links to my things
@@ -23,6 +18,11 @@ and related fields
 C++ / JavaScript / Scala / Haskell / Lean / Python / Ruby / Java / Brainfuck (/ HTML / CSS / YAML)
 ### I want to learn:
 C / C# / Rust / Assembly / TypeScript / Go / SQL / Perl / PHP / Swift / COBOL (/MATLAB / R) 
+
+## REPO CHECK:
+[![AtCoder Daily Problemset](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/random-question-bot/actions/workflows/main.yml)
+[![Rating / Contest Update](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml/badge.svg)](https://github.com/Apiros3/Apiros3.github.io/actions/workflows/rating_update.yml)
+[![Contest List Webhook](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml/badge.svg)](https://github.com/Apiros3/upcoming-contest-bot/actions/workflows/main.yml)
 
 ## Visitor Count: 
 ![Visitor Count](https://profile-counter.glitch.me/Apiros3/count.svg)
