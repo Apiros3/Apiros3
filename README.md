@@ -7,15 +7,9 @@
 
 ## [GitHub Pages](https://apiros3.github.io)
 List of links to my things
-
-## [Portfolio:](https://apiros3.github.io/personal/info-jp.html)
-(Please do not share any personal info on the above page on public platforms without permission (like Twitter))
-
-## Blog:
-### [Generic Blog / Diary:](https://apiros3.github.io/blog/index.html)    
-It's essentially my second Twitter, just for fun
-### [CP Blog:](https://apiros3.github.io/cp-blog/index.html)    
-For competitive programming specific use
+* [Portfolio:](https://apiros3.github.io/personal/info-jp.html)
+* [Generic Blog / Diary:](https://apiros3.github.io/blog/index.html)
+* [CP Blog:](https://apiros3.github.io/cp-blog/index.html)    
 
 ## Research Interests:
 * Interactive Theorem Proving
