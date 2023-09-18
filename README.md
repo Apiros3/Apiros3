@@ -2,7 +2,7 @@
 
 ## [GitHub Pages](https://apiros3.github.io)
 List of links to my things
-* [Portfolio:](https://apiros3.github.io/personal/info-jp.html)
+* [Portfolio (jp):](https://apiros3.github.io/portfolio/info-jp.html)
 * [Generic Blog / Diary:](https://apiros3.github.io/blog/index.html)
 * [CP Blog:](https://apiros3.github.io/cp-blog/index.html)    
 
