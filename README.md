@@ -13,7 +13,7 @@ List of links to my things
 and related fields
 
 ## Language List (Public Repo):
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiros3&langs_count=12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiros3&langs_count=16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br />
 ### I can use (to a variety of extents):
 C++ / JavaScript / Scala / Haskell / Lean / Python / Ruby / Java / Brainfuck (/ HTML / CSS / YAML)
 ### I want to learn:
