@@ -1,6 +1,7 @@
 # ✧Welcome✧
-
+<!--
 ## [GitHub Pages](https://apiros3.github.io)
+-->
 <!--
 List of links to my things
 * [Portfolio (jp):](https://apiros3.github.io/portfolio/info-jp.html)
@@ -11,7 +12,7 @@ List of links to my things
 ## Research Interests:
 * Interactive Theorem Proving
 * Algorithms & Optimizaton
-* Machine Learning <br />
+<!-- * Machine Learning <br /> -->
 and related fields
 
 ## Language List (Public Repo):
