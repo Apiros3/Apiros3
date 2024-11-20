@@ -11,6 +11,7 @@ List of links to my things
 
 ## Research Interests:
 * Interactive Theorem Proving
+* Dependent Type Theory
 * Algorithms & Optimizaton
 <!-- * Machine Learning <br /> -->
 and related fields
